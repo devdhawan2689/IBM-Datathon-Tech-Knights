@@ -1,7 +1,7 @@
 
 This Github Repository Contains the Complete Code submitted by the group Tech Kinghts for IBM Datathon 2024.
 
-The Topic that we had chosen for the theme "Tech For Good" was "Spam Cal Detection". 
+The Topic that we had chosen for the theme "Tech For Good" was "Spam Call Detection". 
 
 There are 2 Parts of the Project.
 a) The First Part Deals with Converting 'Speech to Text'. 
