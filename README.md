@@ -34,3 +34,8 @@ The 'Combined_Code.py' contains the final code of the project.
 
 Demo Of The Project can be seen here - https://youtu.be/UM-4urqgJDU 
  
+Spam Call 
+![2022-09-16 01-20-55 00_00_38_55 Still023](https://github.com/user-attachments/assets/4ef41f68-31d0-46bc-8a64-4b39b55fecf4)
+
+Normal Call
+![2022-09-16 01-20-55 00_01_14_08 Still024](https://github.com/user-attachments/assets/a8e412f6-b2e4-483f-83d9-2be7fd5c0ea1)
